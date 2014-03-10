@@ -1,0 +1,2 @@
+COS_AutoScrollWidgetPager
+=========================
